@@ -1,0 +1,14 @@
+TODO:
+
+* Test out channels
+* Test out multiple consumers
+* Test out what happens when a consumer does not ACK
+* Figure out what the fuck is wrong with asyncio
+  not detecting if its closed...
+* continue publishing messages if in queue and user available
+
+* event for joining pool
+* event for leaving pool
+* event for new channel
+
++ REST API??
